@@ -1,0 +1,6 @@
+[submodule "aaaaaaa"]
+	path = aaaaaaa
+	url = git@github.com:Dreshang/aaaaaaa.git
+[submodule "bbbbbb"]
+	path = bbbbbb
+	url = git@github.com:Dreshang/bbbbbb.git
